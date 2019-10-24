@@ -67,4 +67,3 @@ def quad_roots(a=1.0, b=2.0, c=0.0):
         two_a = 2.0 * a
         return (r1 / two_a, r2 / two_a)
     
-x`
